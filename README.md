@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarry
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m a MERN Stack Developer.
 
 <!---
 1Sarry/1Sarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
